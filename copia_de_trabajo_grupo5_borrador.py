@@ -398,7 +398,7 @@ print("Aplicación Streamlit iniciada. Ahora la expondremos a una URL pública."
 # 3. Exponer la aplicación usando localtunnel
 
 # Instalar localtunnel si no está instalado
-!npm install -g localtunnel
+
 
 # Exponer la aplicación Streamlit que se está ejecutando en el puerto 8503
 # Asegúrate de usar el mismo puerto que se usó al iniciar Streamlit
