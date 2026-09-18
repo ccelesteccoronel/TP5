@@ -401,8 +401,8 @@ print("Aplicación Streamlit iniciada. Ahora la expondremos a una URL pública."
 
 
 # Exponer la aplicación Streamlit que se está ejecutando en el puerto 8503
-# Asegúrate de usar el mismo puerto que se usó al iniciar Streamlit
-!lt --port 8503
+
+
 
 """### Cómo detener `localtunnel`:
 
