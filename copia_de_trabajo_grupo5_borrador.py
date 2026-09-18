@@ -360,7 +360,7 @@ Original file is located at
 from google.colab import drive
 drive.mount('/content/drive')
 
-!pip install -q streamlit
+
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile requirements.txt
@@ -371,7 +371,7 @@ drive.mount('/content/drive')
 # openpyxl
 
 # 1. Instalar las dependencias
-!pip install -r requirements.txt
+
 
 """Ahora vamos a ejecutar la aplicación Streamlit en segundo plano. Esto iniciará el servidor de Streamlit."""
 
